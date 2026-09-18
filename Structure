@@ -1,0 +1,13 @@
+ai-data-classification/
+│── data/
+│   └── dataset.csv
+│── notebooks/
+│   └── classification_workflow.ipynb
+│── src/
+│   ├── preprocess.py
+│   ├── train_model.py
+│   └── evaluate.py
+│── models/
+│   └── model.pkl
+│── README.md
+│── requirements.txt
