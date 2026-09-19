@@ -9,6 +9,8 @@ This project demonstrates a complete machine learning workflow for classifying s
 - Model training (RandomForest, Logistic Regression, etc.)
 - Accuracy, precision, recall, F1-score
 - Exporting trained model
+- Cloud Resource Monitoring Automation (AWS/Azure + Python)
+- Network Performance Analytics (SQL + Python)
 
 ## Tech Stack
 Python • Pandas • NumPy • Scikit‑Learn • Matplotlib
