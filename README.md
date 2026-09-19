@@ -26,4 +26,4 @@ See repository folders for data, notebooks, source code, and saved models.
 Model achieved strong performance with clear feature importance insights.
 
 ## Contact
-Lawrence Alajiki — alajikilawrence@gmail.com
+Lawrence Alajiki - alajikilawrence@gmail.com
