@@ -17,3 +17,7 @@ Python • Pandas • NumPy • Scikit‑Learn • Matplotlib
 See repository folders for data, notebooks, source code, and saved models.
 
 ## How to Run
+
+## pip install -r requirements.txt
+## python src/train_model.py
+## python src/evaluate.py
