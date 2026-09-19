@@ -19,9 +19,22 @@ Python • Pandas • NumPy • Scikit‑Learn • Matplotlib
 See repository folders for data, notebooks, source code, and saved models.
 
 ## How to Run
-- pip install -r requirements.txt
+1. I‑Driven Data Classification (Python, Scikit‑Learn)
+- Install all relevant libraries
+- python src/preprocess.py
 - python src/train_model.py
 - python src/evaluate.py
+
+2. tinyML Sensor Data Analysis (Python side)
+- src/feature_extraction.py
+- python src/train_tiny_model.py
+
+3. Cloud Resource Monitoring Automation (AWS/Azure + Python)
+- src/aws_monitor.py
+- src/azure_monitor.py
+
+4. Network Performance Analytics (SQL + Python)
+- src/analyze_logs.py
 
 
 ## Results
