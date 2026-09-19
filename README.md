@@ -20,3 +20,10 @@ See repository folders for data, notebooks, source code, and saved models.
 - pip install -r requirements.txt
 - python src/train_model.py
 - python src/evaluate.py
+
+
+## Results
+Model achieved strong performance with clear feature importance insights.
+
+## Contact
+Lawrence Alajiki — alajikilawrence@gmail.com
